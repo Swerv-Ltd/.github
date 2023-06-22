@@ -1,12 +1,27 @@
-# Swerv LTD
+<!-- PROJECT LOGO -->
+<p align="center">
+  <a href="https://github.com/Swerv-Ltd/">
+   <img src="https://avatars.githubusercontent.com/u/108650375?s=200&v=4" alt="Logo">
+  </a>
 
-## Products
-[Swyftpay](https://swyftpay.io)
+  <h3 align="center">Swerv LTD.</h3>
 
-[Getfiat](https://getfiat.io)
-
-## Status page
-[https://swerv-Ltd.github.io/status](https://swerv-Ltd.github.io/status)
+  <p align="center">
+    Building the future of payment.
+    <br />
+    <br />
+    <a href="https://swyftpay.io">Swyftpay</a>
+    ·
+    <a href="https://getfiat.io">Getfiat</a>
+    <br />
+    <br />
+    <a href="https://swerv-Ltd.github.io/status">Status</a>
+    ·
+    <a href="https://apps.apple.com/us/app/swyftpay-global-remittance/id6443740202">App Store</a>
+    ·
+    <a href="https://play.google.com/store/apps/details?id=app.swyft.swyft_prod">Play Store</a>
+  </p>
+</p>
 
 <!--
 
